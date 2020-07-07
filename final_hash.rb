@@ -17,6 +17,7 @@ monopoly =  {
       :reading_railroad=>
       {
         "mortgage_value"=>"$100"
+        
       {
         "mortgage_value"=>"$200"
       },
