@@ -62,6 +62,6 @@ def monopoly_with_fourth_tier
         "mortgage_value"=>"$800"
       }
   }
-}  },
+}  }
       
     
