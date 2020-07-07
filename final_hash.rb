@@ -17,8 +17,6 @@ monopoly =  {
       :reading_railroad=>
       {
         "mortgage_value"=>"$100"
-      },
-      :pennsylvania_railroad=>
       {
         "mortgage_value"=>"$200"
       },
@@ -32,5 +30,7 @@ monopoly =  {
       }
     }
   }
-}
+}  },
+      :pennsylvania_railroad=>
+    
 
